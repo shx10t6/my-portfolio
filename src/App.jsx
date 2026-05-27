@@ -673,7 +673,7 @@ function App() {
 
         <div className="hero-buttons">
           <a
-            href="https://wa.me/"
+            href="https://wa.me/201092313266"
             target="_blank"
             rel="noreferrer"
             className="primary-btn"
